@@ -1,0 +1,12 @@
+p
+{
+    font-size: 50px;
+    color: red;
+    transition: 0.5s;
+}
+p:hover
+{
+ 
+    color: rgb(0, 255, 30);
+  
+}
